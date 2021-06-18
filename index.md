@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/ljq.jpg" alt="Jianyang Zhai" width="160px" height="201.6px" />&nbsp;
+      <img src="/ljq.jpg" alt="Junqi Liu" width="160px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
       <p liujunqi.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
