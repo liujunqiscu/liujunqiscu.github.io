@@ -11,7 +11,7 @@
       <p liujunqi.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: liujunqi@nudt.edu.cn</p>
       <p>Address: Changsha, Hunan, China</p>
-      <p>[<a href="https://github.com/liujunqi">Github</a>]</p>
+      <p>[<a href="https://github.com/liujunqiscu">Github</a>]</p>
     </td>
  </tr>
 </table>
