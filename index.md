@@ -31,12 +31,7 @@
     </li>
   </ul>
 
-### Awards
-<ul>
-    <li> 
-      <p>Medical Out-of-Distribution Analysis Challenge, 4rd Place, 2020 </p>
-    </li>
-  </ul>
+
 
 ### Contact
-<p>Any discussions or concerns are welcomed! [zhaijianyang@nudt.edu.cn]</p>
+<p>Any discussions or concerns are welcomed! [liujunqi@nudt.edu.cn]</p>
